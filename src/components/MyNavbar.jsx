@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Navbar, Container, Nav, Button, Image, Dropdown } from "react-bootstrap";
 import avatar from "../assets/avatar.png";
 import logo from "../assets/netflix_logo.png";

@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Container, Row, Col, Button, Form } from "react-bootstrap";
 import avatar from "../assets/avatar.png";
 function ProfileMain() {

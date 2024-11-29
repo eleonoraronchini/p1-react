@@ -1,4 +1,4 @@
-import React from "react";
+
 import SettingsNavbar from "./SettingsNavbar";
 import SettingsMain from "./SettingsMain";
 

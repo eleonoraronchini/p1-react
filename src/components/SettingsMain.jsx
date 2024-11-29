@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import avatar from "../assets/avatar.png";
-import logo from "../assets/netflix_logo.png";
 
 const SettingsMain = () => {
   return (

@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Container } from "react-bootstrap";
 import netflix_logo from "../assets/netflix_logo.png";
 
